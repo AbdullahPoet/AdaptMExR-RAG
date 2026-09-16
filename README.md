@@ -46,6 +46,4 @@ flowchart TD
 
 AdaptMExR-RAG investigates whether **adaptive multi-expert retrieval and evidence fusion** can improve medical question answering compared with conventional fixed RAG systems.
 
-## Status
 
-🚧 Research prototype under active development.
