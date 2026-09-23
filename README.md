@@ -1,6 +1,6 @@
 ![Application Window](assets/main-window.png)
 
-# A[**daptMExR-RAG**](https://github.com/AbdullahPoet/AdaptMExR-RAG)
+# [**AdaptMExR-RAG**](https://github.com/AbdullahPoet/AdaptMExR-RAG)
 
 ## Adaptive, Dynamic, Self-Correcting Medical RAG
 
