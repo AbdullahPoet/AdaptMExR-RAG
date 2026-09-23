@@ -1,6 +1,8 @@
-# Local Medical RAG Assistant
-
 ![Application Window](assets/main-window.png)
+
+# A[**daptMExR-RAG**](https://github.com/AbdullahPoet/AdaptMExR-RAG)
+
+## Adaptive, Dynamic, Self-Correcting Medical RAG
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
