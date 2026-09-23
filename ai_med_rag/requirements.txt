@@ -1,0 +1,16 @@
+# Web app
+streamlit>=1.38,<2
+requests>=2.31,<3
+
+# Retrieval
+faiss-cpu>=1.8,<2
+rank-bm25>=0.2.2,<0.3
+numpy>=1.26,<3
+
+# MedCPT models
+torch>=2.2,<3
+transformers>=4.45,<5
+safetensors>=0.4,<1
+
+# Tokenizer/model compatibility
+sentencepiece>=0.2,<1
