@@ -1,0 +1,15 @@
+{
+  "dataset": "pythonafroz/medquad-medical-question-answer-for-ai-research",
+  "answer_column": "answer",
+  "question_column": "question",
+  "source_column": "source",
+  "focus_column": "focus_area",
+  "question_type_column": null,
+  "article_embedding_model": "ncbi/MedCPT-Article-Encoder",
+  "query_embedding_model": "ncbi/MedCPT-Query-Encoder",
+  "chunk_size_tokens": 500,
+  "chunk_overlap_tokens": 50,
+  "distance": "cosine similarity via normalized IndexFlatIP",
+  "embedding_dimension": 768,
+  "number_of_vectors": 18142
+}
