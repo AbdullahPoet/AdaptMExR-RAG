@@ -27,9 +27,9 @@
 - **Abstention accuracy decreased by 3.507 percentage points.**
 - Because the final benchmark contains substantially more adversarial and behavior-oriented cases, these changes should not be interpreted as pure model-regression estimates without a matched 200-question re-evaluation.
 
-![Overall metric comparison](overall_metrics_comparison.png)
+![Overall metric comparison](assets/overall_metrics_comparison.png)
 
-![Metric delta comparison](metric_delta_comparison.png)
+![Metric delta comparison](assets/metric_delta_comparison.png)
 
 ## Abstention diagnostics
 
@@ -65,7 +65,7 @@ The strongest regression appears in **abstention recall**, which decreased from 
 - Judge latency increased by **31.1%**.
 - Judge input tokens decreased by **25.3%**.
 
-![Operational cost comparison](operational_cost_comparison.png)
+![Operational cost comparison](assets/operational_cost_comparison.png)
 
 ## Summary
 
