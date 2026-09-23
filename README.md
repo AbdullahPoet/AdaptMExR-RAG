@@ -288,8 +288,8 @@ AI_MoE_Med_Assistant/
 ### Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd AI_MoE_Med_Assistant
+git clone https://github.com/AbdullahPoet/AdaptMExR-RAG
+cd AdaptMExR-RAG
 cd ai_med_rag
 ```
 
