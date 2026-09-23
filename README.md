@@ -511,7 +511,6 @@ Some improvements I plan to explore:
 - larger medical knowledge base;
 - better source filtering for web retrieval;
 - document-level source display in the UI;
-- doctor / healthcare-worker / patient modes;
 - persistent encrypted memory;
 - additional safety evaluation;
 - medical knowledge-graph integration;
